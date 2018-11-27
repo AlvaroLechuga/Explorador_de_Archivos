@@ -1,0 +1,30 @@
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.exe.config
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.exe
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.pdb
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.Form1.resources
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.Properties.Resources.resources
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csproj.GenerateResource.Cache
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.exe
+C:\Users\usuario\source\repos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.pdb
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.exe.config
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.exe
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.pdb
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.Form1.resources
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.Properties.Resources.resources
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.exe
+C:\Users\usuario\Downloads\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.exe.config
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\bin\Debug\ExploradordeArchivos.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csprojAssemblyReference.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.Form1.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.Properties.Resources.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csproj.GenerateResource.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.csproj.CoreCompileInputs.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\ExploradordeArchivos\ExploradordeArchivos\ExploradordeArchivos\obj\Debug\ExploradordeArchivos.pdb
